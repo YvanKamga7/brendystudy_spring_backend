@@ -1,0 +1,31 @@
+BRENDYSTUDY - LINK DEL PROGETTO
+
+BrendyStudy - Progetto Ingegneria del Software
+
+TRELLO
+
+https://trello.com/b/adeniyV2/brendystudy-progetto-ingegneria-del-software
+
+
+========================================
+REPOSITORY GITHUB
+========================================
+
+
+Backend Spring Boot:
+[DA INSERIRE]
+
+Frontend Angular:
+[DA INSERIRE]
+
+
+========================================
+MIRO - FACOLTATIVO
+========================================
+Non utilizzato.
+
+
+========================================
+FIGMA - FACOLTATIVO
+========================================
+Non utilizzato.
